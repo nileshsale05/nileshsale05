@@ -1,16 +1,39 @@
-## Hi there 👋
+ Hi, I'm Nilesh Sale 👋
 
-<!--
-**nileshsale05/nileshsale05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Developer | BCA Graduate
 
-Here are some ideas to get you started:
+I am a BCA graduate and aspiring Java Developer passionate about building web applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Skills
+
+- Java
+- OOP Concepts
+- Spring Boot
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- MySQL
+- Thymeleaf
+- Maven
+
+ 🚀 Projects
+
+ Mess Management System
+A web-based Mess Management System developed using Java, Spring Boot, Thymeleaf, HTML, CSS, Bootstrap and MySQL.
+
+ 📚 Currently Learning
+
+- Advanced Java
+- Spring Boot
+- Backend Development
+- SQL
+
+ 🎯 Career Goal
+
+To start my career as a Java Developer and build scalable, user-friendly applications.
+
+ 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/nilesh-sale-730a79431
+- GitHub: https://github.com/nileshsale05
